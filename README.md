@@ -368,5 +368,4 @@ typedef struct binary_tree_s binary_tree_t;
 
 
 ## Author
-														       * **Tu Vo** - [tuvo1106](github.com/tuvo1106)
-
+[Patrick Nyangoto](https://github.com/nyangoto)
